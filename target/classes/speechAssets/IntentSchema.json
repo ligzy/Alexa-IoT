@@ -1,0 +1,25 @@
+{
+  "intents": [
+    {
+      "intent": "HelloWorldIntent"
+    },
+    {
+      "intent": "ConfirmationIntent",
+      "slots": [
+        {
+          "name": "Confirmation",
+          "type": "Confirmation_Type"
+        }
+      ]
+    },
+    {
+      "intent":"AddNumberIntent",
+      "slots": [
+        {
+          "name": "MobileNumbers",
+          "type": "LIST_OF_Numbers"
+        }
+      ]
+    }
+  ]
+}
