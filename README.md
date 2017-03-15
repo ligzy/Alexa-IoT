@@ -1,5 +1,5 @@
-#Mobile Recharge Using Alexa
-A simple [AWS Lambda](http://aws.amazon.com/lambda) function that demonstrates how to do mobile recharge using pay2all wallet for the Amazon Echo using the Alexa SDK.
+# Mobile Recharge Using Alexa
+A simple [AWS Lambda](http://aws.amazon.com/lambda) function that demonstrates how to do mobile recharge by pay2all wallet using the Amazon Alexa.
 
 ## Concepts
 As the technology is continue evolving, things are moving from Web to Mobile App and now on Voice commands. We use mobile recharge applications on smarphones for recharge. In this example, we will be using our voice as a command to alexa for processing the mobile recharge request.
